@@ -1,59 +1,36 @@
-- 👋 Hi, I’m @SAIHTAMcfg
+ 
+   _____ ___    ______  ___________    __  ___
+  / ___//   |  /  _/ / / /_  __/   |  /  |/  /
+  \__ \/ /| |  / // /_/ / / / / /| | / /|_/ / 
+ ___/ / ___ |_/ // __  / / / / ___ |/ /  / /  
+/____/_/  |_/___/_/ /_/ /_/ /_/  |_/_/  /_/   
+                                                | SAIHTAM
+                                                | ------------
+                                                | Python Codeur
+                                                | 📧・saihtampro@gmail.com
+                                                | 📝・16 Years old.
+                                                | 🏴・French.
+            
+
+➜ ./vichy/readme.md ~ git:(master) ✗ tree
+.
+├── Language
+│   ├── Javascript
+│   └── Python
+|
+|
+├── Framework
+│   ├── Angular
+│   ├── NodeJs
+│   ├── DotNet
+│   └── Flask
+|
 
 
-
-
-
-
-- 👀 I’m  entrain d'apprendre a developper des 
-
-
-
-
-
-  📫 petit tools qui peuvent etre utiliser pour python
-  
-  
-  
-  ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-  
-  
-  
-  
-  
--🌱Je veut présenter mais prduit python
-
-
-
-
-- 💞️ I’m looking to  evolur 
-
-------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-
-
-
-
-- 📫 How to reach me ...
-
-
-
-Mon site : saihtamcfg.fr
-
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-
-Mon discord  https://discord.gg/9nBnQyCYMP
-
-<!---
-SAIHTAMcfg/SAIHTAMcfg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
-Cordialemnt  SAIHTAM le plus Mega BG  
-
-
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-
-![giphy](https://user-images.githubusercontent.com/87500459/125855068-b398b1d3-d267-4e8b-bf51-a113e5abc771.gif)
+ 
+  ・Tiktok     -> https://www.tiktok.com/@saihtam_dynasty
+  ・Twitter    -> https://twitter.com/SAIHTAMenUSUU
+  ・GitHub     -> github.com/SAIHTAMcfg
+  ・Discord    -> https://discord.gg/TTBQnhCHFs
+"""  
+➜ ./vichy/readme.md ~ git:(master) ✗ 
