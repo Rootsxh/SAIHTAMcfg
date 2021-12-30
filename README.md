@@ -1,36 +1,15 @@
- 
-   _____ ___    ______  ___________    __  ___
-  / ___//   |  /  _/ / / /_  __/   |  /  |/  /
-  \__ \/ /| |  / // /_/ / / / / /| | / /|_/ / 
- ___/ / ___ |_/ // __  / / / / ___ |/ /  / /  
-/____/_/  |_/___/_/ /_/ /_/ /_/  |_/_/  /_/   
-                                                | SAIHTAM
-                                                | ------------
-                                                | Python Codeur
-                                                | 📧・saihtampro@gmail.com
-                                                | 📝・16 Years old.
-                                                | 🏴・French.
-            
+Name SAIHTAM
 
-➜ ./vichy/readme.md ~ git:(master) ✗ tree
-.
-├── Language
-│   ├── Javascript
-│   └── Python
-|
-|
-├── Framework
-│   ├── Angular
-│   ├── NodeJs
-│   ├── DotNet
-│   └── Flask
-|
+Github: https://github.com/SAIHTAMcfg
+Youtube: https://www.youtube.com/channel/UCFE9mqkvH7UJ2oNXrtjjHAw
+TikTok: https://www.tiktok.com/@saihtam_dynasty
+Instagram: https://www.instagram.com/its_saihtam/
+
+language: 
+
+Python /
+Batch  /
 
 
- 
-  ・Tiktok     -> https://www.tiktok.com/@saihtam_dynasty
-  ・Twitter    -> https://twitter.com/SAIHTAMenUSUU
-  ・GitHub     -> github.com/SAIHTAMcfg
-  ・Discord    -> https://discord.gg/TTBQnhCHFs
-"""  
-➜ ./vichy/readme.md ~ git:(master) ✗ 
+
+Discord Server : https://discord.gg/TTBQnhCHFs
