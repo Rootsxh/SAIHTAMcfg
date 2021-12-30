@@ -1,4 +1,4 @@
-Name SAIHTAM
+Name SAIHTAM 🍇
 
 Github: https://github.com/SAIHTAMcfg
 
@@ -9,11 +9,11 @@ TikTok: https://www.tiktok.com/@saihtam_dynasty
 Instagram: https://www.instagram.com/its_saihtam/
 
 
-language: 
+language: ✨
 
 Python /
 Batch  /
 
 
 
-Discord Server : https://discord.gg/TTBQnhCHFs
+Discord Server : https://discord.gg/TTBQnhCHFs 👌
