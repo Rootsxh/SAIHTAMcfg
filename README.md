@@ -1,6 +1,6 @@
 𝑵𝒂𝒎𝒆 Roots'H🍇
 
-𝑮𝒊𝒕𝒉𝒖𝒃 : https://github.com/Rootshx
+𝑮𝒊𝒕𝒉𝒖𝒃 : https://github.com/Rootsxh
 
 𝒀𝒐𝒖𝒕𝒖𝒃𝒆 : soon...
 
